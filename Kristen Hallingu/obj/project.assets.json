@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Kristen Hallingu\\Kristen Hallingu\\Kristen Hallingu.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\introVStour\\Kristen Hallingu\\Kristen Hallingu\\Kristen Hallingu.csproj",
       "projectName": "Kristen Hallingu",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\Kristen Hallingu\\Kristen Hallingu\\Kristen Hallingu.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\introVStour\\Kristen Hallingu\\Kristen Hallingu\\Kristen Hallingu.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\Kristen Hallingu\\Kristen Hallingu\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\introVStour\\Kristen Hallingu\\Kristen Hallingu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
